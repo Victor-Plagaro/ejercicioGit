@@ -245,7 +245,8 @@ function ComprobarDiaSemana ($arrayDias, $diaSemana){
         if($eleccion == 2){
             $bucle = false;
         }
-    }           
+    }    
+    echo "Estamos forzando el cambio";       
     
 
 
