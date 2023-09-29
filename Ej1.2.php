@@ -246,7 +246,9 @@ function ComprobarDiaSemana ($arrayDias, $diaSemana){
             $bucle = false;
         }
     }           
-    
+    function añadidoVictor(){
+        echo "Hola Enrique";
+    }
 
 
 
