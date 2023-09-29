@@ -249,8 +249,7 @@ function ComprobarDiaSemana ($arrayDias, $diaSemana){
     }    
     echo "Estamos forzando el cambio";       
     
-
-    }           
+    
     function añadidoVictor(){
         echo "Hola Enrique";
     }
